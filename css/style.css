@@ -626,6 +626,8 @@ section {
     .projet2{
         pointer-events: none;
     }
-    
+     .inner-cursor, .outer-cursor, .inner-cursor.grow{
+        display: none;
+    }
   }
   
